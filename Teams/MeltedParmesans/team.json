@@ -1,0 +1,30 @@
+{
+  "teamName": "MeltedParmesan",
+  "members": [
+    {
+      "name": "Valeh Farzaliyev",
+      "twitter": "vahushafa",
+      "koding": "valeh",
+      "location": "Baku, AZ",
+      "lead": true
+    },
+    {
+      "name": "Chingiz Huseynzade",
+      "twitter": "hchingiz",
+      "koding": "chingizh",
+      "location": "Baku, AZ"
+    },
+    {
+      "name": "Gulagha Gozalov",
+      "twitter": "algeronim",
+      "koding": "gulagha",
+      "location": "Baku, AZ",
+    },
+    {
+      "name": "Anna Mokhubova",
+      "twitter": "annamokh",
+      "koding": "",
+      "location": "Baku, AZ"
+    },
+  ]
+}
